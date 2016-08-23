@@ -1,0 +1,9 @@
+D:\Git\ReturnOfTheCarrot\ReturnOfTheCarrot\bin\Debug\ReturnOfTheCarrot.exe.config
+D:\Git\ReturnOfTheCarrot\ReturnOfTheCarrot\bin\Debug\ReturnOfTheCarrot.exe
+D:\Git\ReturnOfTheCarrot\ReturnOfTheCarrot\bin\Debug\ReturnOfTheCarrot.pdb
+D:\Git\ReturnOfTheCarrot\ReturnOfTheCarrot\obj\Debug\ReturnOfTheCarrot.csprojResolveAssemblyReference.cache
+D:\Git\ReturnOfTheCarrot\ReturnOfTheCarrot\obj\Debug\ReturnOfTheCarrot.Form1.resources
+D:\Git\ReturnOfTheCarrot\ReturnOfTheCarrot\obj\Debug\ReturnOfTheCarrot.Properties.Resources.resources
+D:\Git\ReturnOfTheCarrot\ReturnOfTheCarrot\obj\Debug\ReturnOfTheCarrot.csproj.GenerateResource.Cache
+D:\Git\ReturnOfTheCarrot\ReturnOfTheCarrot\obj\Debug\ReturnOfTheCarrot.exe
+D:\Git\ReturnOfTheCarrot\ReturnOfTheCarrot\obj\Debug\ReturnOfTheCarrot.pdb
